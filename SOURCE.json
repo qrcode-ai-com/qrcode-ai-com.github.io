@@ -1,0 +1,31 @@
+{
+  "schema": "qrscan-publisher-site/1",
+  "engine": {
+    "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
+    "revision": "1bac21ea96ef1ed247e251201e3660e5c906036f"
+  },
+  "skill": {
+    "archive": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust/releases/download/agents-v0.2.1/qrcode-barcode-scanner-skill-0.2.0.tar.gz",
+    "sha256": "e73e7b5fe8c6da40ce5c1971e35d1f27d923aa8bf574eeb5c70b55e7a18899a8",
+    "revision": "610879c31302337a2b409b21bd18324e2fece178"
+  },
+  "files": {
+    ".github/workflows/check.yml": "0f0804932f1fbd4d117bf1a150390aca1d161ccd4abb6725a4a7a6740c02bdf6",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    ".well-known/agent-skills/index.json": "d6066494c0ac04c8df48feab85b6854eeb56d1b86e781cc0b52de93148a93c6a",
+    ".well-known/agent-skills/qrcode-barcode-scanner-0.2.0.tar.gz": "e73e7b5fe8c6da40ce5c1971e35d1f27d923aa8bf574eeb5c70b55e7a18899a8",
+    ".well-known/skills/index.json": "a02f962785530c1388066c663f6d0cd89fed4f9523a4b323bb4062f3da892141",
+    ".well-known/skills/qrcode-barcode-scanner/LICENSE": "0c418695afa18c5ae083380a600df779385467100c94c68769cfa18bf0b89911",
+    ".well-known/skills/qrcode-barcode-scanner/README.md": "eb316f263755c320bbb271642ea547d961e24d2079d13966bf2a12bfc8513039",
+    ".well-known/skills/qrcode-barcode-scanner/SKILL.md": "45db0dc75eec7d4244ffbf80a516166922ad652c02dbec6c35fe91c7483ed276",
+    ".well-known/skills/qrcode-barcode-scanner/scripts/scan.mjs": "55b45a93f6a870676d8cb679f8f6b96440bcb233ff57bfe15a076783cf17606e",
+    ".well-known/skills/qrcode-barcode-scanner/scripts/test.mjs": "880240f6d4f1cf7bf2655db67ab680e90c7155408042383e1735769f989a2fbe",
+    "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
+    "README.md": "85448c048425df2bbb69f9405d409270c24fd25f9e2704a6402cc275916f7600",
+    "assets/site.css": "906633e67335c2298293c3dc9d1af5a131446a3871b3f139759b74ddcbc80c24",
+    "index.html": "642f41b59a0af73225e6c9b109d40547918bb4496b553850f841b1bb5fd4190a",
+    "privacy/index.html": "a56da968ae8446916ce2bfe88843ca67eae1055c46c8f182ff47592ee8cc7b4d",
+    "support/index.html": "63effe418fd87555ae0fac84c109f6ab377ee0da4cbad4cf346db8bd8809e8bf",
+    "terms/index.html": "91e769d3c14cbfba0c27b0233c176a65704b3a38bb80a33cbb218eca964f2134"
+  }
+}
