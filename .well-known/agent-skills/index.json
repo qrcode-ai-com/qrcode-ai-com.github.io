@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "qrcode-barcode-scanner",
+      "type": "archive",
+      "description": "Decode QR codes and barcodes from local images and report the scanner's original payload bytes, detections and scannability judgment. Use for supplied image files or generated QR checks.",
+      "url": "/.well-known/agent-skills/qrcode-barcode-scanner-0.2.0.tar.gz",
+      "digest": "sha256:e73e7b5fe8c6da40ce5c1971e35d1f27d923aa8bf574eeb5c70b55e7a18899a8"
+    }
+  ]
+}

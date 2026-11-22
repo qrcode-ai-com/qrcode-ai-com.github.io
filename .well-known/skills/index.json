@@ -1,0 +1,15 @@
+{
+  "skills": [
+    {
+      "name": "qrcode-barcode-scanner",
+      "description": "Decode QR codes and barcodes from local images and report the scanner's original payload bytes, detections and scannability judgment. Use for supplied image files or generated QR checks.",
+      "files": [
+        "SKILL.md",
+        "LICENSE",
+        "README.md",
+        "scripts/scan.mjs",
+        "scripts/test.mjs"
+      ]
+    }
+  ]
+}
