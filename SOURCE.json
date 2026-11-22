@@ -2,7 +2,7 @@
   "schema": "qrscan-publisher-site/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "65d2c1a9ddc5bd422e71cfdf2b007478ed401c81"
+    "revision": "2be5631180877ad5636e85222fd52b4154906638"
   },
   "skill": {
     "archive": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust/releases/download/agents-v0.2.1/qrcode-barcode-scanner-skill-0.2.0.tar.gz",
@@ -21,7 +21,7 @@
     ".well-known/skills/qrcode-barcode-scanner/scripts/scan.mjs": "55b45a93f6a870676d8cb679f8f6b96440bcb233ff57bfe15a076783cf17606e",
     ".well-known/skills/qrcode-barcode-scanner/scripts/test.mjs": "880240f6d4f1cf7bf2655db67ab680e90c7155408042383e1735769f989a2fbe",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "85448c048425df2bbb69f9405d409270c24fd25f9e2704a6402cc275916f7600",
+    "README.md": "59b3d71fd4655334e0bd4e0266776cfd7d09a8e6e173c99158180fadb9369da1",
     "assets/site.css": "906633e67335c2298293c3dc9d1af5a131446a3871b3f139759b74ddcbc80c24",
     "index.html": "39e678807a3880206c83ed58cabc2bafa243007cbe991178f2e49b43cd47f891",
     "privacy/index.html": "8d96a8dfedcb07cdb8261809f0babe3c0aba065893c5b5a5c9937ab3b3e2c3a3",
