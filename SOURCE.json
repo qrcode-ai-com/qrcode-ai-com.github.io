@@ -2,30 +2,30 @@
   "schema": "qrscan-publisher-site/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "2be5631180877ad5636e85222fd52b4154906638"
+    "revision": "9b4e01768701c0444f200a28cdd317be475ae692"
   },
   "skill": {
-    "archive": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust/releases/download/agents-v0.2.1/qrcode-barcode-scanner-skill-0.2.0.tar.gz",
-    "sha256": "e73e7b5fe8c6da40ce5c1971e35d1f27d923aa8bf574eeb5c70b55e7a18899a8",
-    "revision": "610879c31302337a2b409b21bd18324e2fece178"
+    "archive": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust/releases/download/agents-v0.3.2/qrcode-barcode-scanner-skill-0.2.1.tar.gz",
+    "sha256": "e2d7aa22512c507794ab9167e43b565e2edc682f1f582f1744faf14079e01fdf",
+    "revision": "3c5e211a6fb31151b13d0801c98ab118f48dcceb"
   },
   "files": {
     ".github/workflows/check.yml": "0f0804932f1fbd4d117bf1a150390aca1d161ccd4abb6725a4a7a6740c02bdf6",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    ".well-known/agent-skills/index.json": "d6066494c0ac04c8df48feab85b6854eeb56d1b86e781cc0b52de93148a93c6a",
-    ".well-known/agent-skills/qrcode-barcode-scanner-0.2.0.tar.gz": "e73e7b5fe8c6da40ce5c1971e35d1f27d923aa8bf574eeb5c70b55e7a18899a8",
+    ".well-known/agent-skills/index.json": "bfcfddb6ed6b196641f2c309fdec0e6e6ba25b71169b3d94d03d7e795f445cba",
+    ".well-known/agent-skills/qrcode-barcode-scanner-0.2.1.tar.gz": "e2d7aa22512c507794ab9167e43b565e2edc682f1f582f1744faf14079e01fdf",
     ".well-known/skills/index.json": "a02f962785530c1388066c663f6d0cd89fed4f9523a4b323bb4062f3da892141",
-    ".well-known/skills/qrcode-barcode-scanner/LICENSE": "0c418695afa18c5ae083380a600df779385467100c94c68769cfa18bf0b89911",
-    ".well-known/skills/qrcode-barcode-scanner/README.md": "eb316f263755c320bbb271642ea547d961e24d2079d13966bf2a12bfc8513039",
-    ".well-known/skills/qrcode-barcode-scanner/SKILL.md": "45db0dc75eec7d4244ffbf80a516166922ad652c02dbec6c35fe91c7483ed276",
-    ".well-known/skills/qrcode-barcode-scanner/scripts/scan.mjs": "55b45a93f6a870676d8cb679f8f6b96440bcb233ff57bfe15a076783cf17606e",
-    ".well-known/skills/qrcode-barcode-scanner/scripts/test.mjs": "880240f6d4f1cf7bf2655db67ab680e90c7155408042383e1735769f989a2fbe",
+    ".well-known/skills/qrcode-barcode-scanner/LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
+    ".well-known/skills/qrcode-barcode-scanner/README.md": "88fae4f5ba1d2305c537edcb23831d158fb741caf8647724550101e5e32185ec",
+    ".well-known/skills/qrcode-barcode-scanner/SKILL.md": "6a222f7714b06f35228f89b8e644bb0c18a8f1f9e0f4da939b4033974696a822",
+    ".well-known/skills/qrcode-barcode-scanner/scripts/scan.mjs": "754fd2617387e4697b45d20a2ca0ae1a73d1db75fc16e8e8d6b4ef932df7514f",
+    ".well-known/skills/qrcode-barcode-scanner/scripts/test.mjs": "0bc4c8ec7c0ccc17ebe6f28563dce571e31135a7170da3a1799ddc62a02e60f3",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "59b3d71fd4655334e0bd4e0266776cfd7d09a8e6e173c99158180fadb9369da1",
+    "README.md": "d3f264cbe6d1fc52a28ca784cd61c6d7e90d7908abea1eb249f4bb49808ce698",
     "assets/site.css": "906633e67335c2298293c3dc9d1af5a131446a3871b3f139759b74ddcbc80c24",
-    "index.html": "39e678807a3880206c83ed58cabc2bafa243007cbe991178f2e49b43cd47f891",
+    "index.html": "397e813ae0de6e00f4b22cb48cabbf7de7be600ee429c22e114b851b49ee338e",
     "privacy/index.html": "8d96a8dfedcb07cdb8261809f0babe3c0aba065893c5b5a5c9937ab3b3e2c3a3",
     "support/index.html": "63effe418fd87555ae0fac84c109f6ab377ee0da4cbad4cf346db8bd8809e8bf",
-    "terms/index.html": "eb04c5941b0550a365cccfbd211cbb8c8e6d3c716fe4d7cf03fa3637a4ed5487"
+    "terms/index.html": "0fdbf0f5c2bf2a3ba7b2f1346e585f77c0f887a3c6c02551490d1028f53fc263"
   }
 }
